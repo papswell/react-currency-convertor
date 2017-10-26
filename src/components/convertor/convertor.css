@@ -1,0 +1,12 @@
+.convertor {
+  width: 460px;
+  margin: 20px auto;
+  padding: 1.6rem;
+
+  border: solid 1px #ced4da;
+  border-radius: .25rem;
+}
+
+.convertor .input-group:not(:last-child) {
+  margin-bottom: 1.6rem;
+}
